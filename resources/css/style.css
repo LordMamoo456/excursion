@@ -1,0 +1,27 @@
+html {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.header {
+    text-align: center;
+}
+
+.header h1 {
+    color: white;
+}
+
+.app {
+    display: block;
+    margin: auto;
+}
+.travel {
+    text-align: center;
+}
+.travel h2 {
+    color: white;
+}
+
+.travel p {
+    color: white;
+}
