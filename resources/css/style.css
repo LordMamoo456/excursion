@@ -2,26 +2,59 @@ html {
     margin: 0;
     padding: 0;
     background-color: black;
-}
-.header {
     text-align: center;
 }
 
 .header h1 {
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
 }
 
-.app {
+.header a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.app video {
     display: block;
     margin: auto;
 }
-.travel {
-    text-align: center;
-}
+
 .travel h2 {
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
 }
 
 .travel p {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+}
+
+.camp {
+    display: block;
+    width: 100%;
+}
+
+.phone {
+    display: block;
+    margin-left: auto%;
+    margin-right: auto;
+    width: 50%;
+}
+
+footer h2 {
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+footer a {
+    color: aquamarine;
+    font-size: 16px;
 }
